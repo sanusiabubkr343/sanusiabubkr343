@@ -66,7 +66,7 @@
 <p align="center">
 
   <img
-    src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />&nbsp;&nbsp;
+    src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img
