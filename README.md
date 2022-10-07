@@ -78,9 +78,4 @@
 <hr>
 
 
-### Stats
-
-[![GitHub
-Streak](http://github-readme-streak-stats.herokuapp.com?user=sanusiabubkr343&theme=dark)](https://git.io/streak-stats)
-
 <hr>
