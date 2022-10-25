@@ -60,7 +60,7 @@
   <img
     src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img
-    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />&nbsp;&nbsp;&nbsp;
 
